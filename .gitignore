@@ -1,0 +1,17 @@
+# files
+.DS_Store
+.idea
+.ghc.environment.x86_64-linux-*
+prompt-history
+
+# directories
+tmp/
+dist/
+dist-newstyle/
+
+# wildcards
+*.log
+*.o
+*.hi
+*.errors
+
